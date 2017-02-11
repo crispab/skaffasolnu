@@ -1,5 +1,5 @@
 .sun-option .panel {
-    height: 300px;
+    height: 350px;
 }
 
 .panel-default > .panel-heading {
@@ -9,5 +9,14 @@
 .panel-title {
     font-weight: bold;
 }
+
+.glyphicon {
+    font-size: 18px;
+}
+
+.sun-option img {
+    height: 24px;
+}
+
 
 
