@@ -1,3 +1,13 @@
 .sun-option .panel {
     height: 300px;
 }
+
+.panel-default > .panel-heading {
+    background-color: #b3d9dc;
+}
+
+.panel-title {
+    font-weight: bold;
+}
+
+
