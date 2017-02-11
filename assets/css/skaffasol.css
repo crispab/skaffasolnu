@@ -18,5 +18,10 @@
     height: 24px;
 }
 
+.sun-option tbody td div {
+    display: list-item;
+    margin-left: 1.3em;
+    font-size: 12px;
+}
 
 
